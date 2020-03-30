@@ -11,3 +11,9 @@
 
 
 /Bosons and /Fermions have both Twisted and Periodic Files
+
+
+## Corrections not included:
+Bosons eigenenergies -8/\pi
+
+Fermion eigenenergies +32/\pi
