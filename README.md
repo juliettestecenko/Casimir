@@ -14,6 +14,6 @@
 
 
 ## Corrections not included:
-Bosons eigenenergies -8/\pi
+Bosons eigenenergies $8/\pi4$
 
-Fermion eigenenergies +32/\pi
+Fermion eigenenergies $+32/\pi$
