@@ -1,9 +1,9 @@
 # Hamiltonians
 
 ## Key:
-/TB_TF = Twisted Boson and Twisted Fermion
-/TB_PF = Twisted Boson and Periodic Fermion
-/PB_TF = Periodic Boson and Twisted Fermion
-/PB_PF = Periodic Boson and Periodic Boson
+/TB_TF = Twisted Boson and Twisted Fermion //
+/TB_PF = Twisted Boson and Periodic Fermion //
+/PB_TF = Periodic Boson and Twisted Fermion //
+/PB_PF = Periodic Boson and Periodic Boson //
 
 Folders /Bosons and /Fermions have both Twisted and Periodic Files
