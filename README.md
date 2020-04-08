@@ -17,3 +17,5 @@
 Bosons eigenenergies -8/π 
 
 Fermion eigenenergies +32/π 
+
+Combination eigenenergies +24/π 
