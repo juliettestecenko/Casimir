@@ -21,10 +21,13 @@ Fermion eigenenergies +32/π
 Combination eigenenergies +24/π 
 
 # Wolfram Files
+
  Wolfram to print out Hamtilonians
  
 # VQE
+
 Files to use Qiskit VQE in command line
 In a conda enviorment, with Python 3 and Qiskit 0.16.2 installed, use:
->>python vqe_sim.py op_file
-If using the python script without adjustment, the op_file should be in the a subdirectory to the current directory called ./Hams/
+python vqe_sim.py op_file
+
+The Op_file is the Hamiltonian generated through the wolfram script, if using the python script without adjustment, the op_file should be in the a subdirectory to the current directory called ./Hams/
